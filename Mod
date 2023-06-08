@@ -1,4 +1,4 @@
-let num = [3, 5, 7, 9, 10, 15]
+const num = [3, 5, 7, 9, 10, 15];
 const result = num.filter(mod)
 
 function mod(num){
