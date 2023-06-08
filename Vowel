@@ -1,0 +1,5 @@
+let vowel = ["a","e","i","o","u"];
+let str = 'Hello WOrld';
+let aph = str.replace(/[aeiou]/gi, '');
+
+console.log(aph)
